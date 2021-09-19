@@ -36,10 +36,15 @@ yo, Whats up,bro.我叫王衍霖,21岁了，已经算奔三的年纪了。
 
 # Python实现
 def bubbleSort(arr):
+
     for i in range(1, len(arr)):
+    
         for j in range(0, len(arr)-i):
+        
             if arr[j] > arr[j+1]:
+            
                 arr[j], arr[j + 1] = arr[j + 1], arr[j]
+                
     return arr
 
 
