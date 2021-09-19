@@ -3,7 +3,7 @@
 
 
 # 自我介绍
-yo, Whats up,bro. My name is 王衍霖,21 years old.
+yo, Whats up,bro.我叫王衍霖,21岁了，已经算奔三的年纪了。
 接下来我将从三个方面介绍自己：班级、爱好和加入社团的原因。
 
 # 班级
